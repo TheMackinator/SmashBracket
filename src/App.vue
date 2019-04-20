@@ -40,7 +40,7 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,700');
 #app {
   font-family: "Noto Sans", Helvetica, Arial, sans-serif;
